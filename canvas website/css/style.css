@@ -1,0 +1,27 @@
+*{
+	color: rgb(7% 12% 58%);
+}
+
+.top-nav{
+	background-color: #FFA300;
+}
+.top-nav p{
+    display: inline-block;
+    padding-right: 215px;
+}
+
+ul li,a{
+	display: inline-block;
+	list-style: none;
+	float: right;
+	padding-left: 30px;
+	background-color: white;
+	text-decoration: none;
+	margin-right: 40px;
+
+
+}
+blockquote,p{
+	text-align: center;
+	
+}
